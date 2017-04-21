@@ -1,1 +1,55 @@
-test
+==================================================================
+https://keybase.io/rloomans
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robert.loomans.org
+  * I am rloomans (https://keybase.io/rloomans) on keybase.
+  * I have a public key ASDW3_Zy4rOYENnQD7M2tqVITEXHks0RZ2C6h1ZSRPTJHQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d6dff672e2b39810d9d00fb336b6a5484c45c792cd116760ba87565244f4c91d0a",
+            "host": "keybase.io",
+            "kid": "0120d6dff672e2b39810d9d00fb336b6a5484c45c792cd116760ba87565244f4c91d0a",
+            "uid": "f16191c385d6678d5b1f5ce822917819",
+            "username": "rloomans"
+        },
+        "service": {
+            "hostname": "robert.loomans.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492767512,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492767475,
+        "hash": "8e992e428c7429cac14f28a3d3a49de3c89a2fdd4ef7719bdb03507937f81b1dd79276e517aad343398b2bcffd8c7798308ee0c33f9de9b5fc2bdd0991192ddb",
+        "seqno": 1031290
+    },
+    "prev": "ede19069e20ce620fe037ddddb30dbd688438ec653bde06d551b746a7ad3074d",
+    "seqno": 37,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1t/2cuKzmBDZ0A+zNralSExFx5LNEWdguodWUkT0yR0Kp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDZkZmY2NzJlMmIzOTgxMGQ5ZDAwZmIzMzZiNmE1NDg0YzQ1Yzc5MmNkMTE2NzYwYmE4NzU2NTI0NGY0YzkxZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDZkZmY2NzJlMmIzOTgxMGQ5ZDAwZmIzMzZiNmE1NDg0YzQ1Yzc5MmNkMTE2NzYwYmE4NzU2NTI0NGY0YzkxZDBhIiwidWlkIjoiZjE2MTkxYzM4NWQ2Njc4ZDViMWY1Y2U4MjI5MTc4MTkiLCJ1c2VybmFtZSI6InJsb29tYW5zIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJyb2JlcnQubG9vbWFucy5vcmciLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkyNzY3NTEyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTI3Njc0NzUsImhhc2giOiI4ZTk5MmU0MjhjNzQyOWNhYzE0ZjI4YTNkM2E0OWRlM2M4OWEyZmRkNGVmNzcxOWJkYjAzNTA3OTM3ZjgxYjFkZDc5Mjc2ZTUxN2FhZDM0MzM5OGIyYmNmZmQ4Yzc3OTgzMDhlZTBjMzNmOWRlOWI1ZmMyYmRkMDk5MTE5MmRkYiIsInNlcW5vIjoxMDMxMjkwfSwicHJldiI6ImVkZTE5MDY5ZTIwY2U2MjBmZTAzN2RkZGRiMzBkYmQ2ODg0MzhlYzY1M2JkZTA2ZDU1MWI3NDZhN2FkMzA3NGQiLCJzZXFubyI6MzcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RABw8C3DLCaJAHemXic9dgFCn+ow6XbV4dw4qZzyHVLLr2pVsak1jJNdOhurh9dXpkiLJ0HgRbZ9jqOgfbM62YBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHlQgw6EFgKLfw3f+INr3rYazRo7Hi+a2Cj4MHEVF8TNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rloomans
+
+==================================================================
+
